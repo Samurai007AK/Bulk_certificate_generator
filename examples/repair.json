@@ -1,0 +1,7 @@
+{
+  "repairs": [
+    {"row_index": 1, "revision": 0, "patch": {"name": "Katherine Johnson"}},
+    {"row_index": 3, "revision": 0, "patch": {"email": "edsger@example.com"}},
+    {"row_index": 4, "revision": 0, "patch": {"date": "2026-02-14"}}
+  ]
+}
